@@ -1,6 +1,24 @@
 # 💫 About Me:
-# Hi, I'm Titan 👋<br><br>I'm a Computer Science student with a specialization in Artificial Intelligence and Machine Learning, driven by curiosity and a commitment to continuous improvement. I enjoy building practical software, understanding how systems work under the hood, and turning ideas into real-world applications.<br><br>My current focus is on:<br><br>♣ 🤖 Machine Learning & Deep Learning<br>♣ ⚡ FastAPI and Backend Development<br>♣ ☕ Java, Data Structures & Algorithms<br>♣ 🐍 Python and the ML ecosystem<br>♣ 🗄️ Databases and Production-Ready APIs<br>♣ 🚀 MLOps and AI Deployment<br><br>I believe in learning by building. Most of my repositories document my progress through projects, experiments, and implementations—from ML models and REST APIs to backend applications and algorithmic problem solving.<br><br>Outside of programming, I'm passionate about fitness, philosophy, and self-improvement. I'm always looking for ways to become a better engineer and a better version of myself.<br><br>**Current Goal:** Become an industry-ready AI/ML Engineer by building impactful projects, mastering software engineering fundamentals, and contributing to open-source.
+## Hi, I'm Vivek 👋
 
+I'm a Computer Science student with a specialization in Artificial Intelligence and Machine Learning, driven by curiosity and a commitment to continuous improvement.
+
+I enjoy building practical software, understanding how systems work under the hood, and turning ideas into real-world applications.
+
+### Current Focus
+
+- 🤖 Machine Learning & Deep Learning
+- ⚡ FastAPI and Backend Development
+- ☕ Java, Data Structures & Algorithms
+- 🐍 Python and the ML ecosystem
+- 🗄️ Databases and Production-Ready APIs
+- 🚀 MLOps and AI Deployment
+
+I believe in learning by building. Most of my repositories document my progress through projects, experiments, and implementations from ML Projects to DL Projects, backend applications and algorithmic problem solving.
+
+Outside of programming, I'm passionate about fitness, philosophy, and self-improvement.
+
+**Current Goal:** Become an industry-ready AI/ML Engineer by building impactful projects, mastering software engineering fundamentals, and contributing to open source.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/the_titan_666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.good_vibes._99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-kumar-3b8232365/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek.ky9304@gmail.com) 
