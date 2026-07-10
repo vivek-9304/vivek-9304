@@ -41,25 +41,11 @@ AI • Machine Learning • DSA • MLOps
 
 ══════════════════════════════════════════════
 
-🏆 Achievements
-
-Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivek-9304&theme=tokyonight&v=2&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-══════════════════════════════════════════════
-
 📈 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vivek_ky9304/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/the_vivek_999)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/thetitan999)
-
-══════════════════════════════════════════════
-
-👀 Visitors
-
-Profile Views<br>
-<img src="https://komarev.com/ghpvc/?username=vivek-9304&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 ══════════════════════════════════════════════
 
